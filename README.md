@@ -149,9 +149,12 @@ curl https://<api-gateway-id>.execute-api.us-east-1.amazonaws.com/prod/sports
 
 ---
 
-## What We Learned
-Setting up a scalable, containerized application with ECS
-Creating public APIs using API Gateway.
+## What I Learned
+- AWS ECS (Fargate) Best Practices: Understanding how to configure and optimize containerized workloads.
+- API Gateway Integrations: Gained experience in securely exposing and managing APIs.
+- IAM Role Management: Implementing least privilege access for security.
+- Docker Image Optimization: Learning to reduce image size and improve build times.
+- Load Balancing: Implementing best practices for scaling API requests in AWS.
 
 ---
 
