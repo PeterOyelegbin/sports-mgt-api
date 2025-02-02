@@ -30,7 +30,7 @@
 ## Setup ECR and Docker
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/PeterOyelegbin/sports-mgt-api
+git clone https://github.com/PeterOyelegbin/sports-mgt-api.git
 cd sports-mgt-api
 ```
 
